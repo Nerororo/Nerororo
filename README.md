@@ -56,8 +56,6 @@ Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
 
 
 ### 🚌 Algorithm
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneul0&layout=compact) -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=raeque)](https://solved.ac/profile/raeque)
 
 </br>
 </br>
@@ -67,8 +65,7 @@ Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oneul0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/oneul0)  
  -->
 
-![GitHub Metrics](./github-metrics.svg)
-`
+
 <!--
 **Nerororo/Nerororo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
