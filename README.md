@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDDDA,100:FEC7C2&height=300&section=header&text=KimDongJun&fontColor=642424&fontSize=55&fontWeight=600)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEC7C2,100:BFA2DB&height=300&section=header&text=KimDongJun&fontColor=6B2C2C&fontSize=55&fontWeight=600)
 
 
 `<!-- Header -->
