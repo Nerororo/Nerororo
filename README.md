@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEC7C2,100:BFA2DB&height=300&section=header&text=DongJun%27s%20GitHub&fontColor=FFF9F5&fontSize=70&fontFamily=Segoe%20UI)
 
 
-`<!-- Header -->
+<!-- Header -->
 
 <!-- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=.%20Improving%20day%20by%20day&fontAlign=40&fontAlignY=40&color=gradient) -->
 
@@ -26,8 +26,12 @@ Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
 
 ## Certifications
 
-* **OPIc IM1** (2024.10)
-* **정보처리기사** (2023.09)
+* **정보처리기사** (2026.06)
+* **SQLD** (2026.06)
+* **컴퓨터 활용능력 2급** (2024.12)
+* **네트워크 관리사 2급** (2024.11)
+
+* **JLPT N1** (2019.12)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
