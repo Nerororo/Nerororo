@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=20:FEE3E0,100:FEC7C2&height=300&section=header&text=capsule%20render&fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7B6B0,100:FEC7C2&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDDDA,100:FEC7C2&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <!--
 **Nerororo/Nerororo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
