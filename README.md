@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDDDA,100:FEC7C2&height=300&section=header&text=KimDongJun%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEDDDA,100:FEC7C2&height=300&section=header&text=KimDongJun&fontColor=7A3030&fontSize=55&fontWeight=600)
+
+
 `<!-- Header -->
 
 <!-- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=.%20Improving%20day%20by%20day&fontAlign=40&fontAlignY=40&color=gradient) -->
