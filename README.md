@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FEC7C2,100:BFA2DB&height=300&section=header&text=DongJun%27s%20GitHub&fontColor=FFF9F5&fontSize=70&fontFamily=Segoe%20UI)
 
